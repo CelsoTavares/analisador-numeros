@@ -1,0 +1,23 @@
+body{
+    background: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+section{
+    background-color: aliceblue;
+    width: 450px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px 15px;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+select{
+    width: 200px;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 10px;   
+}
